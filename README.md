@@ -40,15 +40,6 @@ I specialize in **AWS, Terraform, Jenkins, DevSecOps, and automation scripting**
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/></a>
 <a href="https://groovy-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="Groovy" width="40"/></a>
-<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sonarqube-logo.svg/512px-Sonarqube-logo.svg.png" alt="SonarQube" width="40"/></a>
-</p>
-
----
-
-### 📊 **GitHub Stats**
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamg16&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamg16&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
 ---
