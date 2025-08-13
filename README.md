@@ -1,20 +1,61 @@
-<h1 align="center">Hi 👋, I'm Shubham Gupta</h1>
-<h3 align="center">Seasoned Software Engineer having experience in designing, developing and maintaining web applications.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">👋 Hey there, I'm Shubham Gupta</h1>
+<h3 align="center">🚀 DevOps & Cloud Engineer | AWS Certified | CI/CD Automation Expert</h3>
 
-- 🔭 I’m currently working on **BFSI project**
+<img align="right" alt="DevOps" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **SpringBoot**
+💡 **About Me**  
+I’m a results-driven **Cloud & DevOps Engineer** with 3+ years of experience in designing, automating, and optimizing cloud-native infrastructures and CI/CD pipelines.  
+I specialize in **AWS, Terraform, Jenkins, DevSecOps, and automation scripting** for large-scale enterprise applications in BFSI and tech domains.
 
-- 💬 Ask me about **Data Structures,Java,AWS**
+---
 
-- 📫 How to reach me **shubhamtgupta161808@gmail.com**
+### 🔹 **Core Highlights**
+- 🌐 Cloud Platforms: **AWS (EC2, S3, IAM, Lambda, ECS, CloudWatch), Azure**  
+- ⚙️ CI/CD: **Jenkins (Pipeline & Shared Libraries), GitHub Actions**  
+- 🛠 Infrastructure as Code: **Terraform, CloudFormation**  
+- 🔒 DevSecOps: **Snyk, SBOM, EOL Validations, SonarQube Quality Gates**  
+- 📦 Containers & Orchestration: **Docker, Kubernetes**  
+- 📜 Scripting: **Bash, Python, Groovy**  
+- 📊 Monitoring: **CloudWatch, Prometheus, Grafana**  
+- 🛡 Security: **MFA integrations, IAM policies, secret management**  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🏆 **Key Achievements**
+- 🚀 **Migrated 200+ Jenkins jobs** to CloudBees CI with zero downtime  
+- 📊 **Standardized SonarQube Quality Gates** (Bronze/Silver/Gold) across multiple projects  
+- ⚡ Reduced deployment times by **40%** through automated infrastructure provisioning  
+- 🛡 Integrated **DevSecOps checks** (Snyk, SBOM) into CI/CD pipelines improving security posture  
+- 📦 Developed reusable Jenkins pipeline libraries for Java, Python, and Node.js applications
+
+---
+
+### 🛠 **Tech Stack**
 <p align="left">
-<a href="https://linkedin.com/in/shubhamg16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamg16" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubhamtgupta161808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamtgupta161808" height="30" width="40" /></a>
+<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40"/></a>
+<a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40"/></a>
+<a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40"/></a>
+<a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/></a>
+<a href="https://groovy-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="Groovy" width="40"/></a>
+<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sonarqube-logo.svg/512px-Sonarqube-logo.svg.png" alt="SonarQube" width="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
+
+### 📊 **GitHub Stats**
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shubhamg16&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamg16&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+### 🤝 **Let’s Connect**
+<p align="left">
+<a href="https://linkedin.com/in/shubhamg16" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="mailto:shubhamtgupta161808@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shubhamtgupta161808" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+</p>
